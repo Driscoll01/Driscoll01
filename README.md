@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Driscoll01
+- 👋 Hi, I’m @Maverick
 - 👀 I’m interested in Javascript ATM
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on Everyone
